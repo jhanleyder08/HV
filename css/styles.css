@@ -1,5 +1,4 @@
 
-/* Reset básico */
 * {
     margin: 0;
     padding: 0;
@@ -384,3 +383,4 @@ position: center;
 #botonLinkedIn:hover {
 background-color: #005582;
 }
+
